@@ -1,0 +1,2 @@
+# MindMinerPrerequisites
+Prerequisites for MindMiner
