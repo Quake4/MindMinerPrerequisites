@@ -1,2 +1,2 @@
-# Mind Miner Prerequisites
+# MindMiner Prerequisites
 Prerequisites for MindMiner
