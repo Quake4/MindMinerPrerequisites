@@ -1,0 +1,1 @@
+https://github.com/216k155/sgminer-phi1612-Implemented
