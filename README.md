@@ -1,2 +1,2 @@
 # MindMiner Prerequisites
-Prerequisites for MindMiner
+Prerequisites for [MindMiner](https://github.com/Quake4/MindMiner)
