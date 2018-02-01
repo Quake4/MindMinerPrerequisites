@@ -1,0 +1,1 @@
+https://github.com/LIMXTEC/BitCore/releases/tag/0.14.1.6
