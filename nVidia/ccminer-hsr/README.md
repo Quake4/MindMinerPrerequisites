@@ -1,0 +1,1 @@
+http://ccminer.org/preview/ccminer-hsr-alexis-x86-cuda8.7z
