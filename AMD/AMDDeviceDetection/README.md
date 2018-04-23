@@ -1,1 +1,0 @@
-https://github.com/nicehash/NiceHashMiner/tree/master/AMDOpenCLDeviceDetection
